@@ -1,7 +1,7 @@
-import Header from "./components/Navbar/Header";
+import LoginForm from "./components/Forms/LoginForm";
 
 function App() {
-  return <Header />;
+  return <LoginForm />;
 }
 
 export default App;
